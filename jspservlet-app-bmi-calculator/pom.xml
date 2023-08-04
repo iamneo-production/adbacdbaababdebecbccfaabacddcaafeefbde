@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.servletapp</groupId>
-  <artifactId>jspservlet-app-ATM</artifactId>
+  <artifactId>jspservlet-app-BMI</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>jspservlet-app-ATM Maven Webapp</name>
+  <name>jspservlet-app-BMI Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
